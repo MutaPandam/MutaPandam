@@ -1,5 +1,5 @@
 - 👋 hello, I am your local dumb panda
-- 👀 I have been working mostly on apps android studio and Unity.
+- 👀 I have been working mostly on apps, android studio, Unity and discord bots.
 - 🌱 I am still what I would concider an amature, but I know the basics for most things.
 - 📫 How to reach me. Email is austin.the.church@gmail.com
 
